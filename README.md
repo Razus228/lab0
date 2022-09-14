@@ -1,1 +1,3 @@
 # lab0
+in this laboratory work i had to install a UNIX like OS, and introduce myself to this OS.
+I decided to install Ubuntu, a very interesting OS, and my thoughts are that I made the right decision. Firstly, I had to format my HDD, to allocate some memory for this OS, then I inserted a USB that ha dthe Ubuntu installed on it. After installing the new system, I installed Grub to dual boot my device and not lose the information on the other OS. Then I installed the zsh, oh-my-zsh, git, gcc compiler. Lucky for me, I had nano already installed on my computer. In the photos I showed some command lines that I used to install everything. Also I made the program using the nano editor.
